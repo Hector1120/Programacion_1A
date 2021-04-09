@@ -1,12 +1,11 @@
 Algoritmo encuesta
-	Definir Nom Como Caracter
-	Definir año Como Real
-	Definir tiene Como Caracter
+	Definir name Como Caracter
+	Definir year Como Real
 	Escribir "Digite su nombre "
-	Leer Nom;
+	Leer name;
 	Escribir "Digite su año de nacimiento"
-	Leer año;
+	Leer year;
 	
-	Escribir " Su edad es " 2021-año
+	Escribir name ", tu edad es:  " 2021-year "años"
 	
 FinAlgoritmo
