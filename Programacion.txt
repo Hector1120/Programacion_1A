@@ -1,0 +1,24 @@
+1. pwd: En que terminal estoy
+2. ls
+3. cd
+4. clear: limpiar pntlla
+5. cd desktop
+6. ls -a
+7. ls -la: lista con caracterisitcas dentro de una carpeta
+8. git --version
+9. Tracking o staging
+10. Staging de subida:
+    git add --all ó git add . ó git add file_name
+    git commit -m "Un mensaje"
+    git push
+11. Staging de bajada:
+    git pull
+12. Otros comandos:
+    git --version
+    git config --list
+    git status
+13. Comandos para configurar Git:
+    git config --global user.name "mi username"
+    git config --global user.email "mi user email"
+14. Comandos para clonar:
+    git clone URL_REPO
